@@ -4,7 +4,7 @@ Hi there!
 
 🎓 I am Kaushik Karmakar, A Certified Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | 【P】【y】【t】【h】【o】【n】. I pursued my Bachelors in Mechanical Engineering and graduated in 2016.👀
 
-👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. In 2022 I began learning Data Science and entered into a vast world where I get dusty with data.
+In 2022 I began learning Data Science..
 
 Presently working as a Sr Escalaton Resolution Specialist for Amazon.
 
