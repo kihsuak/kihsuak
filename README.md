@@ -1,8 +1,8 @@
-Hi there!
+Hi there! :vulcan_salute:
 
 🚀 **About Me** -
 
-🎓 I am Kaushik Karmakar, A Certified Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | 【P】【y】【t】【h】【o】【n】. I pursued my Bachelors in Mechanical Engineering and graduated in 2016.👀
+🎓 I am Kaushik Karmakar, A Certified **Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Python**. I pursued my Bachelors in Mechanical Engineering and graduated in 2016.👀
 
 In 2022 I began learning Data Science..
 
